@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: rv-curve-jura
-Version: 0.1
-Summary: Plot all RV curves you want!
-Home-page: https://github.com/andrinke/rv_curve_jura_andrinke
-Author: Andrin Kessler
-Author-email: andrin.mattia@gmail.com
-Classifier: Programming Language :: Python :: 3
-License-File: LICENCE
