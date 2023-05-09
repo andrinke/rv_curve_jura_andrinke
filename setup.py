@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="rv_curve_jura",
+    name="rv_curve_jura_andrinke",
     version="0.1",
     author="Andrin Kessler",
     author_email="andrin.mattia@gmail.com",
